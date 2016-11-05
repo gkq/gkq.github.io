@@ -5,11 +5,12 @@
     layout: post
     title: test|python
     categories:
-    - Works
-    - Tech
+    - Python
+    - HTML
     tags:
     - bootstrap
     - javascript
     - php
     - AngularJS
  ---
+this is a test
