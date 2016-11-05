@@ -1,9 +1,9 @@
   ---
     author: gkq
     comments: true
-    date: 11/5/2016 8:42:51 PM 
+    date: 2016-11-05
     layout: post
-    title: test|python
+    title: test | Python
     categories:
     - Python
     - HTML
