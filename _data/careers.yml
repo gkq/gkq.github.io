@@ -1,41 +1,41 @@
 - name:
     detail: Future
-    i18n: nextcode
+    i18n: Future
   desc:
     detail: I'll graduate at Apr. 2017, and start my first job as an advertising engineer at Tencent.
-    i18n: nextcode_des
+    i18n: Future_des
   date:
     detail: Nov. 2016
-    i18n: nextcode_date
+    i18n: Future_date
   job:
     detail: Algorithm Engineer
-    i18n: nextcode_job
+    i18n: Future_job
   icon: fa-plus-square
 
-  - name:
+- name:
     detail: Master
-    i18n: college
+    i18n: Master
   desc:
     detail: At September 2014, I started my graduate studies at PAML Lab of Shanghai Jiao Tong University.
-    i18n: college_des
+    i18n: Master_des
   date:
     detail: Sept. 2014
-    i18n: college_date
+    i18n: Master_date
   job:
     detail: Student
-    i18n: college_job
+    i18n: Master_job
   icon: fa-book
   
 - name:
     detail: Bachelor
-    i18n: college
+    i18n: Bachelor
   desc:
     detail: Automation@Zhejiang University
-    i18n: college_des
+    i18n: Bachelor_des
   date:
     detail: Jul. 2014
-    i18n: college_date
+    i18n: Bachelor_date
   job:
     detail: Student
-    i18n: college_job
+    i18n: Bachelor_job
   icon: fa-book
