@@ -7,14 +7,14 @@
 - name: Linux
   href: '/linux/'
 
-- name: HTML
-  href: '/html/'
+- name: Machine Learning
+  href: '/Machine Learning/'
 
-- name: Database
-  href: '/database/'
+- name: Big Data
+  href: '/Big Data/'
 
-- name: Mac
-  href: '/mac/'
+- name: Others
+  href: '/Others/'
 
 - name: Life
   href: '/life/'

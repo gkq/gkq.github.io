@@ -1,53 +1,39 @@
 - name:
-    detail: Nextcode
+    detail: Future
     i18n: nextcode
   desc:
-    detail: Now I am in Nextcode and develop website with Python code for genetic analysis.
+    detail: I'll graduate at Apr. 2017, and start my first job as an advertising engineer at Tencent.
     i18n: nextcode_des
   date:
-    detail: Apr. 2016
+    detail: Nov. 2016
     i18n: nextcode_date
   job:
-    detail: Python Developer
+    detail: Algorithm Engineer
     i18n: nextcode_job
   icon: fa-plus-square
 
-- name:
-    detail: Netease Game
-    i18n: netease
-  desc:
-    detail: In Netease game, I learned game service system and use Python code for ops.
-    i18n: netease_des
-  date:
-    detail: Jun. 2015
-    i18n: nextcode_date
-  job:
-    detail: Dev Ops
-    i18n: netease_job
-  icon: fa-gamepad
-
-- name:
-    detail: Ucloud
-    i18n: ucloud
-  desc:
-    detail: In ucloud, I started to deal with servers and Linux system and use shell scripts to manage massive server.
-    i18n: ucloud_des
-  date:
-    detail: Sep. 2013
-    i18n: ucloud_date
-  job:
-    detail: Dev Ops
-    i18n: ucloud_job
-  icon: fa-cloud
-
-- name:
-    detail: Graduation
+  - name:
+    detail: Master
     i18n: college
   desc:
-    detail: At July 2013,I graduated from college and started my IT technology tour.
+    detail: At September 2014, I started my graduate studies at PAML Lab of Shanghai Jiao Tong University.
     i18n: college_des
   date:
-    detail: Jul. 2013
+    detail: Sept. 2014
+    i18n: college_date
+  job:
+    detail: Student
+    i18n: college_job
+  icon: fa-book
+  
+- name:
+    detail: Bachelor
+    i18n: college
+  desc:
+    detail: Automation@Zhejiang University
+    i18n: college_des
+  date:
+    detail: Jul. 2014
     i18n: college_date
   job:
     detail: Student
