@@ -1,5 +1,5 @@
 - name: 'CRF-Spark'
   i18n: 'saplatform'
-  url: 'Intel-bigdata/CRF-Spark'
+  url: '/Intel-bigdata/CRF-Spark'
   img: 'static/img/landing/saplatform.png'
   desc: 'A Spark-based implementation of Conditional Random Fields (CRFs) for segmenting/labeling sequential data.'
